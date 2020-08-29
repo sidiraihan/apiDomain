@@ -5,14 +5,15 @@ open the project on your favorite ide
 open the terminal/cmd
 
 type
-#composer install
+**composer install**
 
 create new database on mysql
+set database name on .env file
 
 then type
-#php artisan migrate
-#php artisan db:seed
-#php artisan key:generate
-#php artisan serve
+**php artisan migrate
+php artisan db:seed
+php artisan key:generate
+php artisan serve**
 
 
