@@ -25,3 +25,10 @@ then type.
 **php artisan serve**
 
 
+header auth
+
+username: reseller1
+
+password: password
+
+idkey: token from database/users/idkey
