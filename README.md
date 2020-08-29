@@ -9,6 +9,9 @@ type
 
 create new database on mysql.
 
+type
+**cp .env.example .env**
+
 set database name on .env file.
 
 then type.
