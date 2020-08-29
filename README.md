@@ -7,13 +7,18 @@ open the terminal/cmd
 type
 **composer install**
 
-create new database on mysql
-set database name on .env file
+create new database on mysql.
 
-then type
-**php artisan migrate
-php artisan db:seed
-php artisan key:generate
-php artisan serve**
+set database name on .env file.
+
+then type.
+
+**php artisan migrate**
+
+**php artisan db:seed**
+
+**php artisan key:generate**
+
+**php artisan serve**
 
 
